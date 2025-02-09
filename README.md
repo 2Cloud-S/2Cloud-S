@@ -18,6 +18,8 @@ I'm currently exploring advanced Python techniques and diving deeper into asynch
 - **Medium**: [@afnanxkhan](https://medium.com/@afnanxkhan)
 - **X (formerly Twitter)**: [@Afnanxkhan_ak](https://x.com/Afnanxkhan_ak)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 Feel free to reach out if you'd like to collaborate on a project or discuss technology and innovation.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2Cloud-S&layout=compact&theme=radical)
@@ -31,4 +33,4 @@ Thanks for visiting my profile!
 
 ![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Cloud-S&show_icons=true&theme=radical)
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=2Cloud-S&theme=radical)
