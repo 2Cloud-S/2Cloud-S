@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Afnan K. 👋
 
-<!--
-**2Cloud-S/2Cloud-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Indie Hacker | Developer at TwinCloud Studios**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about developing innovative solutions and contributing to the open-source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+
+- **[Medium Profile Scraper](https://github.com/2Cloud-S/medium-scraper)**: A robust asynchronous scraper for Medium profiles and articles, built with Python.
+
+## 🌱 Learning and Development
+
+I'm currently exploring advanced Python techniques and diving deeper into asynchronous programming to enhance the efficiency and scalability of my projects.
+
+## 📫 Connect with Me
+
+- **LinkedIn**: [afnankhan-ak](https://www.linkedin.com/in/afnankhan-ak)
+- **Medium**: [@afnanxkhan](https://medium.com/@afnanxkhan)
+- **X (formerly Twitter)**: [@Afnanxkhan_ak](https://x.com/Afnanxkhan_ak)
+
+Feel free to reach out if you'd like to collaborate on a project or discuss technology and innovation.
+
+## 🏆 Achievements
+
+- **Pull Shark**
+- **YOLO**
+
+Thanks for visiting my profile!
