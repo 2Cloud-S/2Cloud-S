@@ -20,6 +20,8 @@ I'm currently exploring advanced Python techniques and diving deeper into asynch
 
 Feel free to reach out if you'd like to collaborate on a project or discuss technology and innovation.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2Cloud-S&layout=compact&theme=radical)
+
 ## 🏆 Achievements
 
 - **Pull Shark**
@@ -28,4 +30,5 @@ Feel free to reach out if you'd like to collaborate on a project or discuss tech
 Thanks for visiting my profile!
 
 ![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Cloud-S&show_icons=true&theme=radical)
+
 
