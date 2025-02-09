@@ -19,6 +19,9 @@ I'm currently exploring advanced Python techniques and diving deeper into asynch
 - **X (formerly Twitter)**: [@Afnanxkhan_ak](https://x.com/Afnanxkhan_ak)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=2Cloud-S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afnankhan-ak)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Afnanxkhan_ak)
 
 Feel free to reach out if you'd like to collaborate on a project or discuss technology and innovation.
 
