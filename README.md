@@ -26,3 +26,6 @@ Feel free to reach out if you'd like to collaborate on a project or discuss tech
 - **YOLO**
 
 Thanks for visiting my profile!
+
+![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Cloud-S&show_icons=true&theme=radical)
+
