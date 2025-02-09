@@ -37,3 +37,6 @@ Thanks for visiting my profile!
 ![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Cloud-S&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=2Cloud-S&theme=radical)
+
+
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2Cloud-S&theme=github_dark)
