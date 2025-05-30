@@ -16,7 +16,7 @@ I'm currently exploring advanced Python techniques and diving deeper into asynch
 
 - **LinkedIn**: [afnankhan-ak](https://www.linkedin.com/in/afnankhan-ak)
 - **Medium**: [@afnanxkhan](https://medium.com/@afnanxkhan)
-- **X (formerly Twitter)**: [@Afnanxkhan_ak](https://x.com/Afnanxkhan_ak)
+- **X**: [@Afnanxkhan_ak](https://x.com/Afnanxkhan_ak)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=2Cloud-S)
