@@ -1,16 +1,16 @@
 # Hi there, I'm Afnan K. 👋
 
-**Indie Hacker | Developer at TwinCloud Studios**
+**Indie Hacker**
 
 Welcome to my GitHub profile! I'm passionate about developing innovative solutions and contributing to the open-source community.
 
 ## 🔭 Current Projects
 
-- **[Medium Profile Scraper](https://github.com/2Cloud-S/medium-scraper)**: A robust asynchronous scraper for Medium profiles and articles, built with Python.
+- **[Gavi Vaccine Program: Replication Study](https://github.com/2Cloud-S/Gavi_Replication)**: A robust asynchronous scraper for Medium profiles and articles, built with Python.
 
 ## 🌱 Learning and Development
 
-I'm currently exploring advanced Python techniques and diving deeper into asynchronous programming to enhance the efficiency and scalability of my projects.
+I'm currently learning data science and diving deeper into asynchronous programming to enhance the efficiency and scalability of my projects.
 
 ## 📫 Connect with Me
 
