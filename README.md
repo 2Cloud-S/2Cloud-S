@@ -1,80 +1,32 @@
-# Hi, I'm Afnan K. 👋
+<div align="center">
 
-**Indie Hacker · Builder · Data & Web Enthusiast**
+# Afnan Khan
 
-I build micro-SaaS products, data-driven tools, and full-stack web apps. I write about tech and building on [Medium](https://medium.com/@afnanxkhan) and share updates on [X](https://x.com/Afnanxkhan_ak).
+### Data & Full-Stack Developer
 
----
+I build practical developer tools, data products, automation pipelines, and interactive web experiences.
 
-## 🚀 Featured Projects
+[LinkedIn](https://www.linkedin.com/in/afnankhan-ak) · [Portfolio](https://afnan-k-portfolio.vercel.app) · [Medium](https://medium.com/@afnanxkhan) · [X](https://x.com/Afnanxkhan_ak)
 
-### 🎙️ [Yolo Transcript](https://github.com/2Cloud-S/Yolo-Trancript) — [Live Demo](https://yolo-trancript.vercel.app)
-A transcription micro-SaaS that lets users upload audio and video files and get accurate transcripts powered by AssemblyAI. Built with Next.js, Supabase authentication, and deployed on Vercel.
+</div>
 
-`Next.js` `TypeScript` `Supabase` `AssemblyAI` `TailwindCSS` `Vercel`
+## Selected work
 
----
+| Project | What it does | Core stack |
+| :--- | :--- | :--- |
+| [**Mem-D**](https://github.com/2Cloud-S/mem-d) | Local-first CLI for analyzing memory exports, surfacing trustworthy signals, and producing explainable governance recommendations. | Python, scikit-learn, CLI tooling |
+| [**Alodust**](https://github.com/2Cloud-S/alodust) | Friends-first coordination platform for private watch parties and game streams, with presence, invitations, viewer tracking, and real-time chat. | React, TypeScript, Convex, Clerk |
+| [**Yolo Transcript**](https://github.com/2Cloud-S/Yolo-Trancript) | Transcription web app with authenticated uploads, asynchronous speech-to-text processing, and a personal transcript dashboard. [Live demo](https://yolo-trancript.vercel.app) | Next.js, Supabase, AssemblyAI, Tailwind CSS |
+| [**Flying Ships**](https://github.com/2Cloud-S/FlyingShips) | Mobile naval-combat game featuring touch controls, missions, ship progression, enemy AI, and persistent offline saves. | Godot, GDScript, Android |
+| [**Rise of the Plants**](https://github.com/2Cloud-S/ROP) | Mobile-first botanical creature game with discovery, evolution, turn-based battles, camera-based AR, and CMS-driven content. | React, TypeScript, Express, Sanity |
+| [**YouTube Automation Pipeline**](https://github.com/2Cloud-S/yt-auto-pipeline) | End-to-end content pipeline that generates narration, assembles licensed clips, renders videos, and publishes through the YouTube API. | Node.js, Azure Speech, FFmpeg, YouTube API |
 
-### 🌐 [Personal Portfolio & Blog](https://github.com/2Cloud-S/Afnan-K.-Portfolio) — [Live Site](https://afnan-k-portfolio.vercel.app)
-My personal portfolio and blog built with Next.js 14, Sanity CMS for content, and TailwindCSS. Features a project showcase, experience timeline, contact form with email integration, and SEO optimization.
+## Technical focus
 
-`Next.js 14` `TypeScript` `Sanity CMS` `TailwindCSS` `Nodemailer`
+`Python` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `SQL` · `Data Analysis` · `Automation`
 
----
+I care about clear product thinking, maintainable systems, and shipping work that can be tested in the real world.
 
-### 💉 [Gavi Vaccine Trends](https://github.com/2Cloud-S/Gavi-Vaccine-Trends)
-A data replication and analysis study examining global vaccine distribution trends using Gavi program data. Focused on data science and reproducible research.
+## Contact
 
-`Python` `Data Science` `Public Health`
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend & Frameworks**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Data**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2Cloud-S&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=2Cloud-S&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Cloud-S&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced data science and machine learning workflows
-- Asynchronous Python for scalable web scraping and data pipelines
-- Building and scaling micro-SaaS products
-
----
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afnankhan-ak)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@afnanxkhan)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Afnanxkhan_ak)
-[![Profile Views](https://komarev.com/ghpvc/?username=2Cloud-S&style=flat-square&color=blueviolet)](https://github.com/2Cloud-S)
-
----
-
-*Thanks for stopping by — feel free to explore my repos or reach out if you want to collaborate!*
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/afnankhan-ak). I am open to software, data, and product-focused opportunities.
