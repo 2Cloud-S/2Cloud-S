@@ -6,7 +6,7 @@
 
 I build practical developer tools, data products, automation pipelines, and interactive web experiences.
 
-[LinkedIn](https://www.linkedin.com/in/afnankhan-ak) · [Portfolio](https://afnan-k-portfolio.vercel.app) · [Medium](https://medium.com/@afnanxkhan) · [X](https://x.com/Afnanxkhan_ak)
+[LinkedIn](https://www.linkedin.com/in/afnankhan-ak) · [Portfolio](https://portfolio-amber-eight-84.vercel.app/) · [Medium](https://medium.com/@afnanxkhan) · [X](https://x.com/Afnanxkhan_ak)
 
 </div>
 
